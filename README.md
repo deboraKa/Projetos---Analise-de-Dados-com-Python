@@ -22,4 +22,17 @@ Criar uma base sólida em análise de dados usando Python, explorando ferramenta
 
 À medida que eu for avançando no bootcamp, este repositório será organizado com:
 
+## 📅 Progresso
+✅ Repositório criado  
+🔜 Início dos estudos  
+🔜 Upload dos primeiros notebooks  
+🔜 Primeiro projeto prático  
+
+## 🛠️ Requisitos (em breve)
+Será incluído um arquivo `requirements.txt` com os pacotes necessários para executar os notebooks localmente.
+
+## 📌 Observações
+Este repositório está em constante evolução, refletindo meu processo de aprendizagem. Feedbacks e sugestões são sempre bem-vindos!
+
+
 
